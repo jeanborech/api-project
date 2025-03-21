@@ -50,8 +50,7 @@
 			<groupId>com.oracle.database.jdbc</groupId>
 			<artifactId>ojdbc8</artifactId>
 			<version>21.9.0.0</version>
-			<scope>system</scope>
-			<systemPath>C:\JAVA\api-project\lib\ojdbc8.jar</systemPath>
+			
 		</dependency>
 
 
